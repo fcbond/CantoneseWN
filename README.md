@@ -21,17 +21,17 @@ In the future, the Cantonese Wordnet will be included in the Open Multilingual W
 
 ### License
 The Cantonese wordnet is released under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)** and its **canonical citation** is:
-> Sio, Joanna Ut-Seong & Morgado da Costa, Luis. (2019). Building the Cantonese Wordnet. In Proceedings of the Tenth Global Wordnet Conference (GWC 2019), pp. 206-215. Wroclaw, Poland.
+> Sio, Joanna Ut-Seong & Morgado da Costa, Luis. (2019). [Building the Cantonese Wordnet](https://aclanthology.org/2019.gwc-1.26/). In Proceedings of the Tenth Global Wordnet Conference (GWC 2019), pp. 206-215. Wroclaw, Poland.
 
 If you use any data from the **Cantonese Wordnet Corpus**, please also cite the following paper:
 
-> Sio, Joanna Ut-Seong & Morgado da Costa, Luis. (2022). Enriching Linguistic Representation in the Cantonese Wordnet and Building the New Cantonese Wordnet Corpus. Proceedings of the 13th Conference on Language Resources and Evaluation. European Language Resources Association (ELRA). Marseille, France.
+> Sio, Joanna Ut-Seong & Morgado da Costa, Luis. (2022). [Enriching Linguistic Representation in the Cantonese Wordnet and Building the New Cantonese Wordnet Corpus](https://aclanthology.org/2022.lrec-1.8/). Proceedings of the 13th Conference on Language Resources and Evaluation. European Language Resources Association (ELRA). Marseille, France.
 
 
 ### References:
 
-> Sio, Joanna Ut-Seong & Morgado da Costa, Luís. (2023). The Open Cantonese Sense-Tagged Corpus. Proceedings of the 12th International Global Wordnet Conference. San Sebastian, Spain.
+> Sio, Joanna Ut-Seong & Morgado da Costa, Luís. (2023). [The Open Cantonese Sense-Tagged Corpus](https://aclanthology.org/2023.gwc-1.32/). Proceedings of the 12th International Global Wordnet Conference. San Sebastian, Spain.
 
-> Sio, Joanna Ut-Seong & Morgado da Costa, Luis. (2022). Enriching Linguistic Representation in the Cantonese Wordnet and Building the New Cantonese Wordnet Corpus. Proceedings of the 13th Conference on Language Resources and Evaluation. European Language Resources Association (ELRA). Marseille, France.
+> Sio, Joanna Ut-Seong & Morgado da Costa, Luis. (2022). [Enriching Linguistic Representation in the Cantonese Wordnet and Building the New Cantonese Wordnet Corpus](https://aclanthology.org/2022.lrec-1.8/). Proceedings of the 13th Conference on Language Resources and Evaluation. European Language Resources Association (ELRA). Marseille, France.
 
-> Sio, Joanna Ut-Seong & Morgado da Costa, Luis. (2019). Building the Cantonese Wordnet. In Proceedings of the Tenth Global Wordnet Conference (GWC 2019), pp. 206-215. Wroclaw, Poland.
+> Sio, Joanna Ut-Seong & Morgado da Costa, Luis. (2019). [Building the Cantonese Wordnet](https://aclanthology.org/2019.gwc-1.26/). In Proceedings of the Tenth Global Wordnet Conference (GWC 2019), pp. 206-215. Wroclaw, Poland.
